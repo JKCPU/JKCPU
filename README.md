@@ -6,6 +6,7 @@
 ## Project
 
 ### 1. [뇌종양 탐지](https://github.com/JKCPU/Brats)
+![img.png](C:\PRO\Brats\img/3d1_1.png)
 🔹 **Description**: MRI 사진을 3D segmentation 하여, 뇌종양 위치 및 크기 탐지
 
 🔹 **Model** : Unet3D, SwinUNETR
